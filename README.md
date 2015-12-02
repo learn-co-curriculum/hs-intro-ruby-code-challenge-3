@@ -13,3 +13,5 @@ This is a two-part challenge.
 + Create a hash called `favorite_music` where the key is the title of the song, and the value is the song’s artist. Make sure your hash has at least five key-value pairs.
 + Iterate through the hash to return a string for each key value pair that reads `I love #{song} by #{artist}!`
 + Return the number of key-value pairs in your hash.
+
+<a href='https://learn.co/lessons/hs-intro-ruby-code-challenge-3' data-visibility='hidden'>View this lesson on Learn.co</a>
