@@ -14,4 +14,4 @@ This is a two-part challenge.
 + Iterate through the hash to return a string for each key value pair that reads `I love #{song} by #{artist}!`
 + Return the number of key-value pairs in your hash.
 
-<a href='https://learn.co/lessons/hs-intro-ruby-code-challenge-3' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-ruby-code-challenge-3' title='Today's Code Challenge!'>Today's Code Challenge!</a> on Learn.co and start learning to code for free.</p>
